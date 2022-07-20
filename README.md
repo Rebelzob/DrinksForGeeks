@@ -6,13 +6,13 @@
 
 Nuestro producto esta dirigido  para  mayores de 18 años en adelante,  los cuales disfruten de un buen vino y también esten dispuestos a probar sus diferentes presentaciones. 
 
-Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escoger esta bebida, dándoles un amplio portafolio lleno de opciones , precios y variedades. 
+Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escoger esta bebida, dándoles un amplio portafolio lleno de opciones, precios y variedades. 
 
 ### Publico Objetivo 
 
-Perfil:  Mayores de edad  que disfruten de un buen vino y busquen opciones variadas.
-Hábitos: Disfrutar de esta bebida por lo menos una vez a la semana.
-Meta: Hacer que el proceso de elección sea placentero y que al momento de escogerlo puedan obtener  la opción que mejor  se ajusta a su situación, brindándoles la oportunidad de no solo comprar su bebida favorita, pero también de aventurarse a probar algo nuevo. 
+- **Perfil:**  Mayores de edad  que disfruten de un buen vino y busquen opciones variadas.
+- **Hábitos:** Disfrutar de esta bebida por lo menos una vez a la semana.
+- **Meta:** Hacer que el proceso de elección sea placentero y que al momento de escogerlo puedan obtener  la opción que mejor  se ajusta a su situación, brindándoles la oportunidad de no solo comprar su bebida favorita, pero también de aventurarse a probar algo nuevo. 
 
 
 ### **Referentes:**
@@ -36,9 +36,9 @@ Our website  is aimed at people over 18 years old and older. Those who enjoy a g
 
 ### Target Audience 
 
-Profile: People who enjoy a good wine and are looking forward to having a great time and a great experience. Those who believe that a good wine could impact their experience in a very positive way. 
-Habits: Enjoying their favorite  beverage at least once a week.
-Goal: To make the process of choosing a wine pleasant and that at the time of choosing the wine on the website they can get the option that best suits their situation, giving them the opportunity to not only buy their favorite drink, but to also inspire them so they can try something new, maybe even get out of their comfort zone and try a different type of bottle. 
+- **Profile:** People who enjoy a good wine and are looking forward to having a great time and a great experience. Those who believe that a good wine could impact their experience in a very positive way. 
+- **Habits:** Enjoying their favorite  beverage at least once a week.
+- **Goal:** To make the process of choosing a wine pleasant and that at the time of choosing the wine on the website they can get the option that best suits their situation, giving them the opportunity to not only buy their favorite drink, but to also inspire them so they can try something new, maybe even get out of their comfort zone and try a different type of bottle. 
 
 
 ### **References:**
