@@ -28,7 +28,6 @@ Meta: Hacer que el proceso de elección sea placentero y que al momento de escog
 5. https://vinporter.com Esta pagina nos llamo la atención ya que es tiene un orden visual bastante agradable y le permite al usuario hacer uso de esta intuitivamente. Las fotos son bastante llamativas pero no se ve sobrecargado, el usuario puede tener una experiencia placentera y efectiva ya que le permite comprar el producto que mas se acomoda a sus necesidades. 
 
 <br>
-<br>
 
 ## English Version
 ------
