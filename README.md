@@ -10,14 +10,14 @@ Nuestro producto esta dirigido  para  mayores de 🔞 años en adelante,  los cu
 
 Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escoger esta bebida, dándoles un amplio portafolio lleno de opciones, precios y variedades. 
 
-### 🔍 Publico Objetivo 🔍
+### 🎯 Publico Objetivo 
 
 - **Perfil:**  Mayores de edad  que disfruten de un buen vino y busquen opciones variadas.
 - **Hábitos:** Disfrutar de esta bebida por lo menos una vez a la semana.
 - **Meta:** Hacer que el proceso de elección sea placentero y que al momento de escogerlo puedan obtener  la opción que mejor  se ajusta a su situación, brindándoles la oportunidad de no solo comprar su bebida favorita, pero también de aventurarse a probar algo nuevo. 
 
 
-### **Referentes:** 📑
+### Referentes: 📑
 
 1. http://www.mosquitamuertawines.com Lo elegimos como sitio de referencia por la manera organizada que exhibe sus productos, de una forma clara y sencilla, utilizando solamente dos colores. Creemos que es un sitio amigable visualmente, donde lo poco hace mucho a la hora de cautivar a un posible cliente.
 
@@ -36,14 +36,14 @@ Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escog
 
 Our website  is aimed at people over 🔞 years old and older. Those who enjoy a good wine and are also willing to try its different presentations. Our goal is to give users the best experience when choosing wine, giving them a wide portfolio full of options, prices and varieties. 
 
-### 🔍 Target Audience 🔍
+### 🎯 Target Audience
 
 - **Profile:** People who enjoy a good wine and are looking forward to having a great time and a great experience. Those who believe that a good wine could impact their experience in a very positive way. 
 - **Habits:** Enjoying their favorite  beverage at least once a week.
 - **Goal:** To make the process of choosing a wine pleasant and that at the time of choosing the wine on the website they can get the option that best suits their situation, giving them the opportunity to not only buy their favorite drink, but to also inspire them so they can try something new, maybe even get out of their comfort zone and try a different type of bottle. 
 
 
-### **References:** 📑
+### References: 📑
 
 1. http://www.mosquitamuertawines.com We chose this website  as  reference because of how organized the products are displayed.  This website uses  a neat  and simple way, best part, using only two colors. We believe its a user friendly site,  where a little goes a long way this truly helps in captivating a potential client.
 
