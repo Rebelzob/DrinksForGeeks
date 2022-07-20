@@ -1,6 +1,8 @@
-![alt text](Wine-not Project.png)
+<p align="center">
+  <img src="https://github.com/Rebelzob/grupo_9_DrinksForGeeks/blob/28f29299d305ff6ad072152a443c4b7b94d33164/Wine-not%20Project.png" />
+</p>
 
-# Readme
+# README
 
 Nuestro producto esta dirigido  para  mayores de 18 años en adelante,  los cuales disfruten de un buen vino y también esten dispuestos a probar sus diferentes presentaciones. 
 
@@ -21,6 +23,11 @@ Meta: Hacer que el proceso de elección sea placentero y que al momento de escog
 4. https://buywine.cl/ Hemos tomado inspiración en este sitio web, debido a que cuenta con un buen diseño amigable con el usuario, y ofrece una buena composición de las imágenes. Cuenta con un diseño algo minimalista, pero intuitivo para los usuarios. Cuenta con un fondo de color blanco, lo cual facilita el contraste con los otros colores de la página. La página ofrece un filtro a los clientes que saben desde un principio lo que van a buscar bien sea por marca o por color y más abajo ofrece una lista de recomendados para aquellos clientes que están un poco indecisos y esperan algún tipo de sugerencia. 
 5. https://vinporter.com Esta pagina nos llamo la atención ya que es tiene un orden visual bastante agradable y le permite al usuario hacer uso de esta intuitivamente. Las fotos son bastante llamativas pero no se ve sobrecargado, el usuario puede tener una experiencia placentera y efectiva ya que le permite comprar el producto que mas se acomoda a sus necesidades. 
 
+<br>
+<br>
+
+## English Version
+------
 
 Our website  is aimed at people over 18 years old and older. Those who enjoy a good wine and are also willing to try its different presentations. Our goal is to give users the best experience when choosing wine, giving them a wide portfolio full of options, prices and varieties. 
 
