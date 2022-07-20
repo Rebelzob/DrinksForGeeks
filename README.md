@@ -1,15 +1,19 @@
+![alt text](Wine-not Project.png)
+
+# Readme
+
 Nuestro producto esta dirigido  para  mayores de 18 años en adelante,  los cuales disfruten de un buen vino y también esten dispuestos a probar sus diferentes presentaciones. 
 
 Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escoger esta bebida, dándoles un amplio portafolio lleno de opciones , precios y variedades. 
 
-Publico Objetivo 
+### Publico Objetivo 
 
 Perfil:  Mayores de edad  que disfruten de un buen vino y busquen opciones variadas.
 Hábitos: Disfrutar de esta bebida por lo menos una vez a la semana.
 Meta: Hacer que el proceso de elección sea placentero y que al momento de escogerlo puedan obtener  la opción que mejor  se ajusta a su situación, brindándoles la oportunidad de no solo comprar su bebida favorita, pero también de aventurarse a probar algo nuevo. 
 
 
-Referentes: 
+### **Referentes:**
 
 1. http://www.mosquitamuertawines.com Lo elegimos como sitio de referencia por la manera organizada que exhibe sus productos, de una forma clara y sencilla, utilizando solamente dos colores. Creemos que es un sitio amigable visualmente, donde lo poco hace mucho a la hora de cautivar a un posible cliente.
 2. https://www.vivino.com/  Este es otro de los sitios que seleccionamos para poder realizar nuestro trabajo. Fácil de utilizar y no cuenta con demasiada carga visual. Por este motivo sus productos se pueden encontrar con rapidez y de una forma cómoda para el usuario. Cabe ademas destacar, que en cada producto se ofrece una breve pero bien detallada ficha con información, incluyendo valoraciones mediante estrellas y comentarios.
@@ -20,7 +24,7 @@ Referentes:
 
 Our website  is aimed at people over 18 years old and older. Those who enjoy a good wine and are also willing to try its different presentations. Our goal is to give users the best experience when choosing wine, giving them a wide portfolio full of options, prices and varieties. 
 
-Target Audience 
+### Target Audience 
 
 Profile: People who enjoy a good wine and are looking forward to having a great time and a great experience. Those who believe that a good wine could impact their experience in a very positive way. 
 Habits: Enjoying their favorite  beverage at least once a week.
