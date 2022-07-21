@@ -34,7 +34,7 @@ Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escog
 ## English Version
 ------
 
-Our website  is aimed at people over 🔞 years old and older. Those who enjoy a good wine and are also willing to try its different presentations. Our goal is to give users the best experience when choosing wine, giving them a wide portfolio full of options, prices and varieties. 
+Our website  is aimed at people over 🔞 years and older. Those who enjoy a good wine and those who are also willing to try its different presentations. Our goal is to give users the best experience when choosing wine, giving them a wide portfolio full of options, prices and varieties. 
 
 ### 🎯 Target Audience
 
