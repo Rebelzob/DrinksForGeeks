@@ -17,7 +17,7 @@ Nuestro objetivo es darle a los usuarios la mejor experiencia a la hora de escog
 - **Meta:** Hacer que el proceso de elección sea placentero y que al momento de escogerlo puedan obtener  la opción que mejor  se ajusta a su situación, brindándoles la oportunidad de no solo comprar su bebida favorita, pero también de aventurarse a probar algo nuevo. 
 
 
-### Referentes: 📑
+### 📑 Referentes: 
 
 1. http://www.mosquitamuertawines.com Lo elegimos como sitio de referencia por la manera organizada que exhibe sus productos, de una forma clara y sencilla, utilizando solamente dos colores. Creemos que es un sitio amigable visualmente, donde lo poco hace mucho a la hora de cautivar a un posible cliente.
 
