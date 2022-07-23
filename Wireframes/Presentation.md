@@ -3,14 +3,6 @@ Wine-not Wireframes
 </h1>
 
 
-## Contents
-- [Home](#%EF%B8%8F-Home)
-- [🚧 Boilerplates](#-boilerplates)
-- [📁 Recipes](#-recipes)
-- [🛠️ Tools](#%EF%B8%8F-tools)
-- [📖 Articles](#-articles)
-- [Mobile (*Bonus*)](#-Mobile (*Bonus*))
-
 ## Home
 <p align="center">
    <img src="Wireframes/Wireframe - Wine-not_Homepage.png" width="500">
