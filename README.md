@@ -29,7 +29,7 @@ Our website  is designed for those who enjoy a good wine and are searching for t
 
 4. https://buywine.cl/ We have taken inspiration from this website, because it has a good user-friendly design, and it also  offers a good composition of images. It has a minimalist design, but intuitive for users. We are all about white backgrounds. It has filters, if you know what you are looking for, great, if not they help you out. Client can choose from different colours of wine to different taste. 
 
-5. https://vinporter.com This page caught our attention because it looks very clean and neat, this  allows the user to use it intuitively. The photos are quite striking but not overwhelming, who wants to get overwhelmed when choosing their favotite wine? 
+5. https://vinporter.com This page caught our attention because it looks clean and neat, this  allows the user to use it intuitively. The photos are quite striking but not overwhelming, who wants to get overwhelmed when choosing their favotite wine? 
 
 ## **Devs** 💻
 <a href="https://github.com/FacundoUndiano1" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700220?v=4" alt="Facundo Uldiano" width="100"></a>
