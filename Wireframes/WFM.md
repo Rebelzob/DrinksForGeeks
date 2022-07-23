@@ -12,7 +12,7 @@ Wine-not Wireframes
 - [🖋 Register](#-register)
 - [📲 Mobile (*Bonus*)](#-mobile-bonus)
 
-<a href="https://github.com/Rebelzob/grupo_9_Wine-not_project/blob/6a7dce7a0e7883a2ff3c440371823ac82e3385cc/README.md" target="_blank" rel="nofollow">Back to Wine-not README</a>
+<a href="https://github.com/Rebelzob/grupo_9_Wine-not_project/blob/9976263978b9d57dba82068984e3ccf90cdd6725/README.md" target="_blank" rel="nofollow">Back to Wine-not README</a>
 
 <br>
 
