@@ -58,7 +58,7 @@ If you wanna look at our website wireframes <a href="Wireframes/WFM.md" target="
 <br>
 <br>
 
-## 💻 **Devs** 
+## 💻 Devs
 
 Support and like our awesome devs below! 🎉
 <table>
