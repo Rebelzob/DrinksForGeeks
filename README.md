@@ -64,7 +64,7 @@ Support and like our awesome devs below! 🎉
 <table>
 <thead>
 <tr>
-<th colspan="5">Geeks</th>
+<th colspan="5">(☞ﾟ∀ﾟ)☞  &nbsp &nbsp &nbsp &nbsp  d–(^ ‿ ^ )z</th>
 </tr>
 </thead>
 <tbody>
