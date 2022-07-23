@@ -1,5 +1,15 @@
 
+<p align="center">
+ <h1 align="center">
+   <img src="https://github.com/Rebelzob/grupo_9_DrinksForGeeks/blob/28f29299d305ff6ad072152a443c4b7b94d33164/Wine-not%20Project.png" />
+ </p>
 
+ # README
+   <br>
+   <br>
+   Wine-not Project Documentation
+ </h1>
+ 
 Our website  is designed for those who enjoy a good wine and are searching for the perfect taste.  Our goal is to give users the best experience, providing them with everything they need so they can finish  their purchase with a smile on their face. We want to offer them  a user-friendly design they can come back to anytime. 
 
 ### 🎯 Target Audience
