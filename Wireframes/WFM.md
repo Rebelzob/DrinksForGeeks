@@ -12,6 +12,8 @@ Wine-not Wireframes
 - [🖋 Register](#-register)
 - [📲 Mobile (*Bonus*)](#-mobile-bonus)
 
+<a href="README.md" target="_blank" rel="nofollow">Back to Wine-not README</a>
+
 <br>
 
 - ## 🏡 Home
