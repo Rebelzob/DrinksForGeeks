@@ -16,16 +16,17 @@
 - [🎯 Target Audience](#-target-audience)
 - [📑 References](#-references)
 - [🗺 Roadmap deadline](#-roadmap-deadline)
+- [📐 Wireframes](#-wireframes)
 - [💻 Devs](#-devs)
-- [📖 Articles](#-articles)
-- [🤖 Benchmarks](#-benchmarks)
+
+<br>
 
 ## 🎯 Target Audience
 
 - **Profile:** Lovers of wine who  are looking forward to having a great time.  Those who believe that a good wine can make a difference.
 - **Habits:** Enjoying their favorite  alcoholic beverage at least once a week (or more) 
 - **Goal:** To make the process of choosing a wine pleasant so that by the end of their experience on our website they are satisfied and happy customers. We want them to save our site as a favorite on their bookmarks ;) 
-
+<br>
 
 ## 📑 References: 
 
@@ -38,6 +39,7 @@
 4. <p><a href="https://buywine.cl/" target="_blank" rel="nofollow">Buywine</a></p> We have taken inspiration from this website, because it has a good user-friendly design, and it also  offers a good composition of images. It has a minimalist design, but intuitive for users. We are all about white backgrounds. It has filters, if you know what you are looking for, great, if not they help you out. Client can choose from different colours of wine to different taste. 
 
 5.  <p><a href="https://vinporter.com" target="_blank" rel="nofollow">Vinporter</a></p>  This page caught our attention because it looks clean and neat, this  allows the user to use it intuitively. The photos are quite striking but not overwhelming, who wants to get overwhelmed when choosing their favotite wine? 
+<br>
 
 ## 🗺 Roadmap Deadline
 
@@ -51,12 +53,42 @@
 * [ ] 8th sprint - API's and React - deadline - Nov 30th.
 <br>
 
-## Wireframes
-link to wireframes file <a href="Wireframes/WFM.md" target="_blank" rel="nofollow">click here</a> Wireframes/WFM.md
+## 📐 Wireframes
+If you wanna look at our website wireframes <a href="Wireframes/WFM.md" target="_blank" rel="nofollow">click here</a>, Wine-not?
+<br>
+<br>
 
 ## 💻 **Devs** 
-<a href="https://github.com/FacundoUndiano1" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700220?v=4" alt="Facundo Uldiano" width="100"></a>
-<a href="https://github.com/nataliaviloria009" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700201?v=4" alt="Natalia Viloria" width="100"></a>
-<a href="https://github.com/Pabloneffen"><img src="https://avatars.githubusercontent.com/u/108700235?v=4" alt="Pablo Neffen" width="100"></a>
-<a href="https://github.com/sebastiancifuentes28" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700244?v=4" alt="Sebastian Cifuentes" width="100"></a>
-<a href="https://github.com/Rebelzob" target="_blank"><img src="https://avatars.githubusercontent.com/u/52711805?v=4" alt="Karim Barragan" width="100"></a>
+
+Support and like our awesome devs below! 🎉
+<table>
+<thead>
+<tr>
+<th colspan="5">Geeks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/FacundoUndiano1" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700220?v=4" alt="Facundo Uldiano" width="100"></a></td>
+<td><a href="https://github.com/nataliaviloria009" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700201?v=4" alt="Natalia Viloria" width="100"></a></td>
+<td><a href="https://github.com/Pabloneffen"><img src="https://avatars.githubusercontent.com/u/108700235?v=4" alt="Pablo Neffen" width="100"></a></td>
+<td><a href="https://github.com/sebastiancifuentes28" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700244?v=4" alt="Sebastian Cifuentes" width="100"></a></td>
+ <td><a href="https://github.com/Rebelzob" target="_blank"><img src="https://avatars.githubusercontent.com/u/52711805?v=4" alt="Karim Barragan" width="100"></a></td> 
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td><p align="center">
+Facundo <br> Uldiano</p></td>
+<td><p align="center">
+Natalia<br>Viloria</p></td>
+<td><p align="center">
+Pablo<br>Neffen</p></td>
+<td><p align="center">
+Sebastian<br>Cifuentes</p></td>
+<td><p align="center">
+Karim<br>Barragan</p></td>
+</tr>
+</tfoot>
+</table>
+
