@@ -15,7 +15,7 @@
 
 - [🎯 Target Audience](#-target-audience)
 - [📑 References](#-references)
-- [🗺 Roadmap deadline](#-roadmap-deadline)
+- [🗺 Roadmap](#-roadmap)
 - [📐 Wireframes](#-wireframes)
 - [💻 Devs](#-devs)
 
@@ -41,7 +41,7 @@
 5.  <p><a href="https://vinporter.com" target="_blank" rel="nofollow">Vinporter</a></p>  This page caught our attention because it looks clean and neat, this  allows the user to use it intuitively. The photos are quite striking but not overwhelming, who wants to get overwhelmed when choosing their favotite wine? 
 <br>
 
-## 🗺 Roadmap Deadline
+## 🗺 Roadmap
 
 * [x] 1st sprint - Wireframe and sketch - deadline - Jul 27th.
 * [ ] 2nd sprint - HTML and CSS - deadline - Aug 15th.
