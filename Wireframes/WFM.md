@@ -35,22 +35,22 @@ Wine-not Wireframes
 </p>
    <br>
 
-## 🔓 Login
-[Back to content menu](#contents)
+- ## 🔓 Login
+- [Back to content menu](#contents)
  <p align="center">
    <img src="https://github.com/Rebelzob/grupo_9_Wine-not_project/blob/30908a78f0561740442ae5768398a2533e3ea714/Wireframes/Wireframe%20-%20Wine-not_Login.png" width="500">
 </p>
    <br>
    
-## 🖋 Register
-[Back to content menu](#contents)
+- ## 🖋 Register
+- [Back to content menu](#contents)
  <p align="center">
    <img src="https://github.com/Rebelzob/grupo_9_Wine-not_project/blob/30908a78f0561740442ae5768398a2533e3ea714/Wireframes/Wireframe%20-%20Wine-not_Register.png" width="500">
 </p>
    <br>
    
-## 📲 Mobile (*Bonus*)
-[Back to content menu](#contents)
+- ## 📲 Mobile (*Bonus*)
+- [Back to content menu](#contents)
  <p align="center">
    <img src="https://github.com/Rebelzob/grupo_9_Wine-not_project/blob/ea59ad53ea6d5ae1b66f1b993675c21b349130a1/Wireframes/Wireframe%20-%20Wine-not_Mobile.png" width="200">
 </p>
