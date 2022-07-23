@@ -13,7 +13,7 @@ Our website  is designed for those who enjoy a good wine and are searching for t
 
 1. http://www.mosquitamuertawines.com We chose this website  as  reference because of how organized the products are displayed.  This website uses  a neat  and simple interface, we love  the fact they are using only two colors. As we heard it before,  a little goes a long way, or sometimes less is more...
 
-2. https://www.vivino.com/ This is another of the sites we selected as part of our inspiration. It is easy to use and does not have too much visual load. Because of this, their products can be found quickly , giving notroubke at all. It should also be noted that each product offers a brief but detailed information sheet with information, including star ratings and comments.  This is also key as other client's opinions on the products could impact future sells. 
+2. https://www.vivino.com/ This is another of the sites we selected as part of our inspiration. It is easy to use and does not have too much visual load. Because of this, their products can be found quickly , giving no trouble  at all. It should also be noted that each product offers a brief but detailed information sheet with information, including star ratings and comments.  This is also key as other client's opinions on the products could impact future sells. 
 
 3. https://www.seedlipdrinks.com/en-gb/shop/ The design is simply amazing,  the page shows well balanced colors, fine lines, low saturation (which we believe is very important because our user may be starting at the screen for a while as he or she selects the product. It also contains a lot of fluidity and animated transitions which gives a pleasant feeling to navigate through the different areas.
 
