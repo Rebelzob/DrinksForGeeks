@@ -15,7 +15,7 @@ Our website  is designed for those who enjoy a good wine and are searching for t
 ### 🎯 Target Audience
 
 - **Profile:** Lovers of wine who  are looking forward to having a great time.  Those who believe that a good wine can make a difference.
-- **Habits:** Enjoying their favorite  alcoholic beverage at least once a week.
+- **Habits:** Enjoying their favorite  alcoholic beverage at least once a week (or more) 
 - **Goal:** To make the process of choosing a wine pleasant so that by the end of their experience on our website they are satisfied and happy customers. We want them to save our site as a favorite on their bookmarks ;) 
 
 
