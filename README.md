@@ -1,7 +1,7 @@
 
 <p align="center">
  <h1 align="center">
-   <img src="https://github.com/Rebelzob/grupo_9_DrinksForGeeks/blob/28f29299d305ff6ad072152a443c4b7b94d33164/Wine-not%20Project.png" />
+   <img src="Logo - Proyecto Integrador _001.png" width="300" />
  </p>
    <br>
    Wine-not Project Documentation
