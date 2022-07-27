@@ -30,7 +30,7 @@
 
 ## 📑 References: 
 
-1. <p><a href="http://www.mosquitamuertawines.com" target="_blank" rel="nofollow">Mosquita Muerta Wines</a></p> We chose this website  as  reference because of how organized the products are displayed.  This website uses  a neat  and simple interface, we love  the fact they are using only two colors. As we heard it before,  a little goes a long way, or sometimes less is more...
+1. <p><a href="http://www.mosquitamuertawines.com" target="_blank" rel="nofollow">Mosquita Muerta Wines</a></p> We chose this website  as  reference because of how organized the products are displayed.  This website uses  a neat  and simple interface, we love  the fact they are using only two colours. As we heard it before,  a little goes a long way, or sometimes less is more...
 
 2. <p><a href="https://www.vivino.com/" target="_blank" rel="nofollow">Vivino</a></p>  This is another of the sites we selected as part of our inspiration. It is easy to use and does not have too much visual load. Because of this, their products can be found quickly, giving no trouble  at all. It should also be noted that each product offers a brief but detailed information sheet with information, including star ratings and comments.  This is also key as other client's opinions on the products could impact future sells. 
 
