@@ -79,7 +79,7 @@ Support and like our awesome devs below! 🎉
 <tfoot>
 <tr>
 <td><p align="center">
-Facundo <br> Uldiano</p></td>
+Facundo <br> Undiano</p></td>
 <td><p align="center">
 Natalia<br>Viloria</p></td>
 <td><p align="center">
