@@ -38,7 +38,7 @@
 
 4. <p><a href="https://buywine.cl/" target="_blank" rel="nofollow">Buywine</a></p> We have taken inspiration from this website, because it has a good user-friendly design, and it also  offers a good composition of images. It has a minimalist design, but intuitive for users. We are all about white backgrounds. It has filters, if you know what you are looking for, great, if not they help you out. Client can choose from different colours of wine to different taste. 
 
-5.  <p><a href="https://vinporter.com" target="_blank" rel="nofollow">Vinporter</a></p>  This page caught our attention because it looks clean and neat, this  allows the user to use it intuitively. The photos are quite striking but not overwhelming, who wants to get overwhelmed when choosing their favotite wine? 
+5.  <p><a href="https://vinporter.com" target="_blank" rel="nofollow">Vinporter</a></p>  This page caught our attention because it looks clean and neat, this  allows the user to use it intuitively. The photos are quite striking but not overwhelming, who wants to get overwhelmed when choosing their favorite wine? 
 <br>
 
 ## 🗺 Roadmap
