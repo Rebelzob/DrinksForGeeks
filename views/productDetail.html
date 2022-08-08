@@ -4,9 +4,81 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Products Details Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto&display=swap" rel="stylesheet">
+    <link href="/css/stylesProductDetail.css" rel="stylesheet" >
 </head>
 <body>
     
+    <div class="product-page-container">
+
+        <!--==route==-->
+        <span class="link-route">
+            <a href="index.html">Home</a> > <a href="#">Wine type</a>
+        </span>
+
+        <!--==product-details-section==-->
+        <section id="product-page">
+            <!--==img==-->
+            <div class="product-page-img">
+                <img src="/images/la-rioja-vina-alberdi-crianza.png" class="iframe">
+            </div>
+            <!--==details==-->
+            <div class="product-page-details">
+                <!--==title==-->
+                <strong>Wine's name</strong>
+                <span class="product-category">
+                    Wine category
+                </span>
+                <!--==price==-->
+                <span class="price">$ 0.00</span>
+                <!--==details==-->
+                <p class="small-desc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione, dicta sit recusandae tempora quibusdam praesentium libero enim adipisci est unde totam blanditiis molestias a eius et maxime animi. Velit, ab!</p>
+                <!--==cart btns==-->
+                <div class="cart-btns">
+                    <span>Quantity</span>
+                    <input type="number" value="1">
+                    <a href="productCart.html" class="add-cart">Add to Cart</a>
+                    <a href="#" class="add-cart buy-now">Buy now</a>
+                </div>
+            </section>
+                <!--==Related products section==-->
+                <section class="best-selling-product-section">
+                    <h1 class="section tittle">Products that you might enjoy...</h1>
+                    <div class="product-container">
+                        <div class="product-card">
+                            <img src="/images/veramonte-gran-reserva-carmenere.png" class="product-img" alt="">
+                            <p class="product-category">Categoría de producto</p>
+                            <p class="product-name">Nombre del producto</p>
+                            <p class="product-price">$ 0.00</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="/images/veramonte-reserva-merlot.png" class="product-img" alt="">
+                            <p class="product-category">Categoría de producto</p>
+                            <p class="product-name">Nombre del producto</p>
+                            <p class="product-price">$ 0.00</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="/images/ps-garcia-petit-verdot.png" class="product-img" alt="">
+                            <p class="product-category">Categoría de producto</p>
+                            <p class="product-name">Nombre del producto</p>
+                            <p class="product-price">$ 0.00</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="/images/ps-garcia-facundo.png" class="product-img" alt="">
+                            <p class="product-category">Categoría de producto</p>
+                            <p class="product-name">Nombre del producto</p>
+                            <p class="product-price">$ 0.00</p>
+                        </div>
+                    </div>
+                </section>
+
+                </div>
+                </div>
+    </div>
 </body>
 </html>
