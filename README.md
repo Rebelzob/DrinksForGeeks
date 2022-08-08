@@ -69,7 +69,6 @@ Support and like our awesome devs below! 🎉
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/FacundoUndiano1" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700220?v=4" alt="Facundo Uldiano" width="100"></a></td>
 <td><a href="https://github.com/nataliaviloria009" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700201?v=4" alt="Natalia Viloria" width="100"></a></td>
 <td><a href="https://github.com/Pabloneffen"><img src="https://avatars.githubusercontent.com/u/108700235?v=4" alt="Pablo Neffen" width="100"></a></td>
 <td><a href="https://github.com/sebastiancifuentes28" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700244?v=4" alt="Sebastian Cifuentes" width="100"></a></td>
@@ -78,8 +77,6 @@ Support and like our awesome devs below! 🎉
 </tbody>
 <tfoot>
 <tr>
-<td><p align="center">
-Facundo <br> Undiano</p></td>
 <td><p align="center">
 Natalia<br>Viloria</p></td>
 <td><p align="center">
