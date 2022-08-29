@@ -64,12 +64,14 @@ Support and like our awesome devs below! 🎉
 <table>
 <thead>
 <tr>
-<th colspan="5">(☞ﾟ∀ﾟ)☞  &nbsp &nbsp &nbsp &nbsp  d–(^ ‿ ^ )z</th>
+<th colspan="6">(☞ﾟ∀ﾟ)☞  &nbsp &nbsp &nbsp &nbsp  d–(^ ‿ ^ )z</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><a href="https://github.com/nataliaviloria009" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700201?v=4" alt="Natalia Viloria" width="100"></a></td>
+<td><a href="https://github.com/JuanCruzEusebi" target="_blank"><img src="https://avatars.githubusercontent.com/u/69488523?v=4" alt="Juan Cruz Eusebi" width="100"></a></td>
+<td><a href="https://github.com/joacoguzmanz" target="_blank"><img src="https://avatars.githubusercontent.com/u/49413000?v=4" alt="Joaquin Guzman" width="100"></a></td>
 <td><a href="https://github.com/Pabloneffen"><img src="https://avatars.githubusercontent.com/u/108700235?v=4" alt="Pablo Neffen" width="100"></a></td>
 <td><a href="https://github.com/sebastiancifuentes28" target="_blank"><img src="https://avatars.githubusercontent.com/u/108700244?v=4" alt="Sebastian Cifuentes" width="100"></a></td>
  <td><a href="https://github.com/Rebelzob" target="_blank"><img src="https://avatars.githubusercontent.com/u/52711805?v=4" alt="Karim Barragan" width="100"></a></td> 
@@ -79,6 +81,10 @@ Support and like our awesome devs below! 🎉
 <tr>
 <td><p align="center">
 Natalia<br>Viloria</p></td>
+<td><p align="center">
+Juan<br>Eusebi</p></td>
+<td><p align="center">
+Joaquin<br>Guzman</p></td>
 <td><p align="center">
 Pablo<br>Neffen</p></td>
 <td><p align="center">
